@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 06fc91df93db429419591abd9bbfdcfe
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: eeabefd2ec4cf6442a82e0b762a76d8e
+  - enabled: 1
+    path: Assets/Scenes/CutShip.unity
+    guid: bb47a54d29dc0544caf2be0893f2b21b
+  - enabled: 1
+    path: Assets/Scenes/Drown.unity
+    guid: b32ed6373514df64081368ecfd7e4bcb
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 3a3c2a1c0a4e5f144a59aeaf82730e46
+  - enabled: 1
+    path: Assets/Scenes/Talk.unity
+    guid: b01710e7117260645bc2bad109136d97
+  - enabled: 1
+    path: Assets/Scenes/Vitamins.unity
+    guid: b01673e2516bbc44eabc99d6a5a899d7
+  - enabled: 1
+    path: Assets/Scenes/Continued.unity
+    guid: c9557647a13449d4fa427509ca50eb0e
+  - enabled: 1
+    path: Assets/Scenes/Hallway1.unity
+    guid: 9ad4e4a4636665e4a84c6db58b7572d5
+  - enabled: 1
+    path: Assets/Scenes/TalkHall1.unity
+    guid: fca002218b2cda5469a50132803c607c
+  - enabled: 1
+    path: Assets/Scenes/HallDoors.unity
+    guid: dffa4f1bba9ccfc42a3573fd632e2dc9
+  - enabled: 1
+    path: Assets/Scenes/HallCop.unity
+    guid: bbaad3215ef2fa64bb7ac51c2fc44172
+  - enabled: 1
+    path: Assets/Scenes/TalkCop.unity
+    guid: 325306b61ab600e4b94da4401b5d7ae4
+  - enabled: 1
+    path: Assets/Scenes/Hall3.unity
+    guid: 7b9cf88ba36417640a73857c173d96fe
+  - enabled: 1
+    path: Assets/Scenes/TalkLoser.unity
+    guid: 2aae4857a7b76fd418934a63edb106a3
+  - enabled: 1
+    path: Assets/Scenes/HallCenter.unity
+    guid: 0c8ff3c5d35c7694b87d8d71ced6cf5f
+  - enabled: 1
+    path: Assets/Scenes/Center.unity
+    guid: c778a3766ef45d54dae46b2d8c911d77
+  - enabled: 1
+    path: Assets/Scenes/TalkBoss.unity
+    guid: 104ff5e4b0e882146905d00b903d1092
+  - enabled: 1
+    path: Assets/Scenes/TalkLimits.unity
+    guid: 44cc10a0a5318564ca035264a8df28c4
+  m_configObjects: {}
